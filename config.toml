@@ -1,4 +1,37 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog.tonymacaroni.eu/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tonymacaroni blog'
 theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+user = "hello"
+hostname = "tonymacaroni.eu"
+footerhtml = '© 2025 Anthony Stulens, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme, powered by <a href="https://pages.github.com/" class="footerLink">Github Pages</a>.'
+  [params.author]
+    name = "Anthony Stulens" 
+
+readingtime = "true"
+published = "true"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/t0nymacaroni"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "linkedin"
+url = "https://www.linkedin.com/in/anthonystulens/"
+aria = "LinkedIn Profile"
