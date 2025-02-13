@@ -3,13 +3,8 @@ author = "Anthony Stulens"
 title = "TEST"
 date = "2025-02-13"
 description = "This is a test post"
-tags = [
-    "Tony",
-    "TEST",
-]
-categories = [
-    "themes",
-    "syntax",
+tags = [ 
+    "Test",
 ]
 +++
 
@@ -18,7 +13,7 @@ this is a test post
 
 ## test Header
 
-```PowerShell
+```Bash
 echo Hello-World
 ```
 
