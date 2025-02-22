@@ -1,0 +1,4 @@
+# ignore everything from generated hugo directories
+public/
+.hugo_build.lock
+.obsidian/
