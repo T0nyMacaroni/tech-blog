@@ -74,8 +74,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome"
-    Content: Welcome to my blog
+    Title: "Tony's blog"
+    Content: Blog about cyber security stuff and other things
 
   socialIcons:
     - name: linkedin
@@ -99,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/T0nyMacaroni/tech-blog/content"
+    URL: "https://github.com/T0nyMacaroni/tech-blog/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
