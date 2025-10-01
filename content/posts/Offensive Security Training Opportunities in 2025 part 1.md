@@ -19,11 +19,11 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: ""
+  image: "/images/banners/20251001-Offensive_security_training_opportunities_2025_part1.png"
   alt: Ethical hacking training
   caption: Ethical hacking Training
 ---
-
+![banner](/images/banners/20251001-Offensive_security_training_opportunities_2025_part1.png)
 ## Intro
 As an offensive security professional, or as someone aspiring to break into the field, the training opportunities in the offensive security domain have expanded over the last few years. This is very good news for anyone looking to hone their skills and learn new things, however it can become quite a maze with the many training offerings out there. 
 
