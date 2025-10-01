@@ -31,7 +31,7 @@ In my previous role at a major security services provider in EU, I was the main 
 
 That's why I decided to create a summary of practical courses, certifications and in-person instructed training offerings out there in 2025 and share it with the community. The following list contains training options based on my own research and recommendations by peers. Although it does not include every option out there, I think that the trainings in this list are among the best options.
 
-Since this list has grown bigger than I initially expected I have decided to split this post in to multiple parts. This first part will contain an overview of general offensive security content whereas the following parts will include more specific topics. Below you can find a summary of the blog posts:
+Since this list has grown larger than I initially expected I have decided to split this post into multiple parts. This first part will contain an overview of general offensive security content, whereas the following parts will include more specific topics. Below you can find a summary of the blog posts:
 
 - [Part 1: General Pentesting (This post)](#)
 - [Part 2: Web/API & Mobile Pentesting (COMING SOON)]()
@@ -45,22 +45,22 @@ If you are only interested in a summary, I have included a table at the end of e
 - [General Pentesting Overview](#overview)
 
 ## General Pentesting
-The general pentesting trainings cover the entry into the offensive security field. The trainings listed in this section are meant to get a foot in the door when you are looking to get a job as an aspiring pentester or to strengthen your position when you landed your first job as a one. The list contains relevant, not you CEH, training material and certification exams. Although not every certification has the same recognition or value, they do contain more or less the same topics.
+The general pentesting trainings cover the entry into the offensive security field. The trainings listed in this section will help you get a foot in the door if you're looking to get a job as an aspiring pentester or to strengthen your position when you landed your first job as one. The list contains relevant, not you CEH, training material and certification exams. Although not every certification has the same recognition or value, they do contain more or less the same topics.
 
 ### Hack The Box (HTB)
 {{< figure src=/images/training-blogpost/HTB-logo.png  align=center >}}
 Hack The Box really hit the nail on the head when it comes to gamified cyber security training. They offer a great platform with multiple training opportunities from their academy through to their pro-labs. They offer very competitive pricing for individuals as well as enterprise subscribers. Their standalone machines on their main platform are free to play and updated weekly.
 
 #### [Hack The Box Labs](https://app.hackthebox.com/home)
-HTB Labs offers a catalog of vulnerable machines and challenges you can hack/break into to learn real-world penetration testing skills. the labs range from enrty-level to insane level difficulty boxes. it is an excellent training ground for practical skills and can be a help for pursuing multiple certifications.
+HTB Labs offers a catalog of vulnerable machines and challenges you can hack/break into to learn real-world penetration testing skills. The labs range from entry-level to insane level difficulty boxes. It is an excellent training ground for practical skills and can be a help for pursuing multiple certifications.
 
 ##### Cost
-The Active and Seasonal machines are Free
+The Active and Seasonal machines are free.
 If you want access to the whole content library and personal machine instances you can opt for 
 VIP+ which costs €190/year
 
 #### [Hack The Box Academy](https://academy.hackthebox.com/)
-I wanted to separately highlight the HTB academy, as the platform gives access to multiple job role paths as well as learning modules from entry-level to expert topics to explore for a fair price. Additionally, they offer multiple certifications. Some of them I have highlighted in this blog post. The plus side is once you have completed your modules, you will keep access to them even after your subscription expires.
+I wanted to separately highlight the HTB academy, as the platform gives access to multiple job role paths as well as learning modules from entry-level to expert topics to explore for a fair price. Additionally, they offer multiple certifications. Some of them I have highlighted in this blog post. The advantage is that once you have completed your modules, you retain access to them even after your subscription expires.
 
 ##### Cost
 The HTB academy comes in different tiers:
@@ -68,7 +68,7 @@ The HTB academy comes in different tiers:
 - Gold Annual $1260, including 1 exam voucher + 1 free retake
 
 #### [HTB Certified Penetration Testing Specialist (HTB CPTS)]( https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
-The CPTS is relatively new an alternative to the OSCP. Teaching the pentest basics and giving the learner enough time to solve realistic pentest challenges during an exam. The course forces you to complete every module to ensure that you'll learn everything the course has to offer.
+The CPTS is a relatively new alternative to the OSCP. Teaching the pentest basics and giving the learner enough time to solve realistic pentest challenges during an exam. The course forces you to complete every module to ensure that you'll learn everything the course has to offer.
 {{< figure src=/images/training-blogpost/cpts2.png  align=center width="50%" >}}
 
 ##### Cost
@@ -77,15 +77,18 @@ To access the CPTS course only the silver subscription is required. This costs $
 ### INE Security
 {{< figure src=/images/training-blogpost/inesecurity_logo.jpeg align=center width="30%" >}}
 Formerly known as eLearn Security, is a training provider that provides on demand courses mostly in PDF and video format. They also offer labs next to their courses although not for every topic/course.
+
 #### [INE Security Junior Penetration Tester (eJPT)](https://security.ine.com/certifications/ejpt-certification/)
 Entry-level pentester certification. Covers the knowledge and skills required to fulfill a role as an entry-level penetration tester.
 {{< figure src=/images/training-blogpost/eJPT.png align=center width="30%" >}}
+
 ##### Cost
 $249 for 3 months course access + 1 exam attempt + 1 free retake.
 
 #### [INE Security Certified Professional Penetration Tester (eCPPT)](https://security.ine.com/certifications/ecppt-certification/)
-Professional Penetration tester training path focusses on practical hands-on training. This learning path lays the foundation for becoming a proficient penetration tester in today's digital landscape.
+The Professional Penetration tester training path focusses on practical, hands-on training. This learning path lays the foundation for becoming a proficient penetration tester in today's digital landscape.
 {{< figure src=/images/training-blogpost/eCPPT.png align=center width="30%">}}
+
 ##### Cost
 $599 for 3 months course access + 1 exam attempt + 1 free retake.
 
@@ -94,8 +97,9 @@ $599 for 3 months course access + 1 exam attempt + 1 free retake.
 One of the most established training providers in the cyber security market has to be OffSec, formerly known as Offensive Security. Known for their expert level courses and most universally recognized certification: OSCP.
 
 #### [Offensive Security Certified Professional (OSCP/OSCP+)](https://www.offsec.com/courses/pen-200/)
-The OSCP is "The" certification that proofs you are a skilled penetration tester, by testing you in a 24 hours exam requiring you to solve realistic challenges. The OSCP certificate is one of the most recognized entry-level cyber security certifications out there. 
+The OSCP is "The" certification that proves you are a skilled penetration tester, by testing you in a 24 hours exam requiring you to solve realistic challenges. The OSCP certificate is one of the most recognized entry-level cyber security certifications out there. 
 {{< figure src=/images/training-blogpost/oscp.png align=center width="30%" >}}
+
 ##### Cost
 The course is available in different pricing:
 - Standalone course: including 1 exam attempt, including 90 days lab access ($1749)
@@ -105,8 +109,9 @@ The course is available in different pricing:
 #### [Kali Linux Certified Professional (KLCP)](https://www.offsec.com/courses/pen-103/)
 As OffSec are the creators of the Kali Linux OS, they created this course to teach you the ins and outs of the Kali Linux Operating system.
 {{< figure src=/images/training-blogpost/klcp.png align=center width=30%" >}}
+
 ##### Cost
-The course itself is Free, However if you want to do the exam you have to subscribe to one of OffSec's subscriptions:
+The course itself is free; however, if you want to do the exam you have to subscribe to one of OffSec's subscriptions:
 - Learn One annual subscription: including fundamental courses, KLCP and OSWP ($2749)
 - Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts ($6099)
 
@@ -116,8 +121,9 @@ The course itself is Free, However if you want to do the exam you have to subscr
 A relatively new player on the cyber security training market, but already a very known due to their competitive alternative to the OSCP certification. 
 
 #### [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/)
-With the PNPT, TCM security offers an alternative to the widely know OSCP from OffSec. The PNPT focuses on network pentesting covering topics such as AD, privilege escalations, etc. The PNPT is an entry level penetration testing certificate.
+With the PNPT, TCM Security offers an alternative to the widely known OSCP from OffSec. The PNPT focuses on network pentesting covering topics such as AD, privilege escalations, etc. The PNPT is an entry level penetration testing certificate.
 {{< figure src=/images/training-blogpost/pnpt.jpeg align=center width="30%" >}}
+
 ##### Cost
 $499 for 12 months of on-demand access + 1 exam attempts + 1 free retake.
 
@@ -126,7 +132,7 @@ $499 for 12 months of on-demand access + 1 exam attempts + 1 free retake.
 TryHackMe is another gamified learning platform. It is focused on beginner friendly hacking labs to train individuals in penetration testing.
 
 #### [TryHackMe Learn Modules](https://tryhackme.com/hacktivities)
-Although their training module catalog is not as extensive as their competitors, TryHackMe offers training resources as a much cheaper price.
+Although their training module catalog is not as extensive as that of  their competitors, TryHackMe offers training resources as a much lower price.
 
 ##### Cost
 Free
@@ -135,6 +141,7 @@ Free
 #### [TryHackMe PT1](https://tryhackme.com/certification/junior-penetration-tester)
 The first-ever penetration testing certification from TryHackMe. a beginner friendly pentest certification that focuses on Web, Network and AD pentest knowledge.
 {{< figure src=/images/training-blogpost/thm-pt1.jpeg align=center width="30%" >}}
+
 ##### Cost
 €297 for 3 months course access + 1 exam attempt + 1 free retake.
 
@@ -154,7 +161,8 @@ The first-ever penetration testing certification from TryHackMe. a beginner frie
 | TryHackMe Rooms                              | X                                                                | TryHackMe    | On-Demand course, Labs         | X                                                            | Various                    | Free; €126                           | 12 Month access                             | https://tryhackme.com/hacktivities                                                                 |
 | The Jr Penetration Tester                    | The Jr Penetration Tester (PT1)                                  | TryHackMe    | On-Demand course, Labs         | Non-proctored exam, 2 days, hands-on lab + report            | Entry-Level                | $297                                 | Yearly access                               | https://tryhackme.com/certification/junior-penetration-tester                                      |
 
-
+## Footnote
+Offensive security is constantly evolving, and it promises even more opportunities to grow, learn, and sharpen your skills. Whether you’re just starting out or pushing toward advanced expertise, the key is to keep exploring and stay ahead of the curve. Stay tuned for the coming updates.
 
 ### Additional Resources
 - Security Certification Roadmap - Paul Jerimy: https://pauljerimy.com/security-certification-roadmap/
