@@ -13,7 +13,7 @@ tags:
   - HackTheBox
   - INE-Security
   - OffSec
-  - TCM Security
+  - TCM-Security
   - TryHackMe
   - Pentesting
 ShowToc: true
@@ -34,7 +34,7 @@ That's why I decided to create a summary of practical courses, certifications an
 Since this list has grown larger than I initially expected I have decided to split this post into multiple parts. This first part will contain an overview of general offensive security content, whereas the following parts will include more specific topics. Below you can find a summary of the blog posts:
 
 - [Part 1: General Pentesting (This post)](#)
-- [Part 2: Web/API & Mobile Pentesting (COMING SOON)](/posts/offensive-security-training-opportunities-in-2025-part-2-web-and-mobile/)
+- [Part 2: Web/API & Mobile Pentesting](/posts/offensive-security-training-opportunities-in-2025-part-2-web-and-mobile/)
 - [Part 3: Red & Blue Teaming (COMING SOON)](/posts/offensive-security-training-opportunities-in-2025-part-3-red-and-blue-teaming/)
 
 **Disclaimer:** The opinions stated in this article are solely my own and do not necessarily reflect those of my employer or other affiliations I have/had. Next to that, courses are not listed in a specific order (this is no ranking by any means). Just because a course is listed in my post does not mean I have actively taken or bought the course, although I have participated in many of these and plan on taking more from this list.
@@ -83,14 +83,15 @@ INE's entry-level pentester certification.  This course covers the knowledge and
 {{< figure src=/images/training-blogpost/eJPT.png align=center width="30%" >}}
 
 ##### Cost
-$249 for 3 months course access + 1 exam attempt + 1 free retake.
+$249 for 3 months course (fundamentals) access + 1 exam attempt + 1 free retake.
 
 #### [INE Security Certified Professional Penetration Tester (eCPPT)](https://security.ine.com/certifications/ecppt-certification/)
 The Professional Penetration tester training path focusses on practical, hands-on training. This learning path lays the foundation for becoming a proficient penetration tester in today's digital landscape. The eCCPT continues where the eJPT left off and is INE's equivalent to the OSCP. It is considered to be more guided than the course material for the OSCP and therefore easier to learn. Although it is not as recognized as the OSCP.
 {{< figure src=/images/training-blogpost/eCPPT.png align=center width="30%">}}
 
 ##### Cost
-$599 for 3 months course access + 1 exam attempt + 1 free retake.
+$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its $749 for the Premium pass annually. 
+The premium pass gives access to INE's entire content library.
 
 ### OffSec
 {{< figure src=/images/training-blogpost/offsec-logo.png align=center >}}
