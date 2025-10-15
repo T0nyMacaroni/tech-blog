@@ -33,11 +33,11 @@ cover:
 ![banner](/images/banners/20251008-Offensive_security_training_opportunities_2025_part2.png)
 
 ## Intro
-Welcome back to the series on Offensive Security Training Opportunities in 2025. In part 1, I covered general pentesting training platforms, certifications, and courses that will help you get a foothold in the field or sharpen your skills as a pentester.
+Welcome back to the series on *Offensive Security Training Opportunities in 2025*. In Part 1, I covered general pentesting training platforms, certifications, and courses that will help you get a foothold in the field or sharpen your skills as a pentester.
 
 In this second installment, we’ll focus on training resources dedicated to web, API, and mobile application security. While some of the courses included in this list are suitable for beginners, it’s recommended to start with the foundational material before diving into the more specialized topics.
 
-This post is part 2 of the Offensive Security Training Opportunities in 2025. You can find the other posts in the links below:
+This post is Part 2 of the *Offensive Security Training Opportunities in 2025*. You can find the other posts in the links below:
 
 - [Part 1: General Pentesting](/posts/offensive-security-training-opportunities-in-2025-part-1)
 - [Part 2: Web/API & Mobile Pentesting (This)](#)
@@ -53,18 +53,18 @@ If you are only interested in a summary, I have included a table at the end of e
 ## Web (& API) Pentesting
 Web and API training courses are valuable for pentesters looking to specialize in application security or expand beyond general infrastructure testing. This list includes hands-on labs, structured courses, and certification options that emphasize real-world attack scenarios and modern web technologies. Although some of them are beginner-friendly, a solid understanding of basic pentesting concepts is recommended before diving into these topics.
 
-### Portswigger
+### PortSwigger
 {{< figure src=/images/training-blogpost/PortSwigger.png  align=center >}}
 "The best-in-class software and learning for security engineers and penetration testers".
 
 #### [Portswigger Academy](https://portswigger.net/web-security) 
-Portswigger Academy offers FREE web application vulnerability topics including iterative labs to complete. The content is continuously updated, and new topics/labs are added regularly.
+PortSwigger Academy offers **free** course content on web application vulnerability topics including iterative labs to complete. The content is continuously updated, with new topics/labs are added regularly.
 
 ##### Cost
-FREE
+Free
 
 #### [Burp Suite Certfied Professional (BSCP)](https://portswigger.net/web-security/certification)
-Based on the topics covered in their academy, Portswigger offers a stand alone web application pentester certification. The exam is pretty hard giving you only 4 hours to completely pwn 2 web applications, however no report is needed. It is recommended that you complete all practitioner level labs in the academy and do their practice exam. This is a must have for any web application penetration tester!
+Based on the topics covered in their Academy, PortSwigger offers a stand alone web application pentester certification. The exam is pretty hard giving you only 4 hours to completely pwn 2 web applications; however, no report is needed. It is recommended that you complete all practitioner level labs in the academy and do their practice exam. This is a must have for any web application penetration tester!
 {{< figure src=/images/training-blogpost/bscp.png  align=center width="30%">}}
 
 ##### Cost
@@ -79,10 +79,10 @@ The CWES (FKA Certified Bug Bounty Hunter - CBBH) is an entry-level / intermedia
 {{< figure src=/images/training-blogpost/htb-cwes.png  align=center width="30%">}}
 
 ##### Cost
-To access the CWES course, only the silver subscription is required. This costs €410/year (excl. VAT), including 1 exam voucher + 1 free retake
+To access the CWES course, only the Silver subscription is required. This costs €410/year (excl. VAT), including 1 exam voucher + 1 free retake
 
 #### [HTB Certified Web Exploitation Expert (CWEE)](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert)
-The CWEE is an advanced web pentesting certification. Its covers more advanced web attacks and also focuses more on white-box techniques. Course completion is required to start the exam.
+The CWEE is an advanced web pentesting certification. It covers more advanced web attacks and also focuses more on white-box techniques. Course completion is required to start the exam.
 {{< figure src=/images/training-blogpost/htb-cwee.png  align=center width="30%">}}
 
 ##### Cost
@@ -93,7 +93,7 @@ To access the CWEE course, a gold subscription is required. This costs €1.055/
 As part of their cyber training offering, INE offers the following web training + certifications: 
 
 #### [INE Security Web Application Penetration tester (eWPT)](https://security.ine.com/certifications/ewpt-certification/) 
-The eWPT covers the essential web vulnerabilities and how to exploit them. This is assessed in a multiple choice style exam, where you need to perform tests in a hands-on lab in order to be able to answer the questions within 10 hours.
+The eWPT covers essential web vulnerabilities and how to exploit them. This is assessed in a multiple-choice exam, in which you must conduct tests in a hands-on lab and then answer questions within 10 hours.
 {{< figure src=/images/training-blogpost/eWPT.png align=center width="30%" >}}
 
 ##### Cost
@@ -113,7 +113,7 @@ The premium pass gives access to INE's entire content library.
 OffSec currently offers 2 web pentesting trainings/certifications:
 
 #### [Offensive Security Web Assessor (OSWA)](https://www.offsec.com/courses/web-200/)
-The OSWA covers foundational skills necessary to execute professional web application assessments. It covers essential techniques for identifying and exploiting XSS, SQL Injection, SSRF, and more. The course is focused at entry-level to intermediate web attacks in black-box fashion. 
+The OSWA covers foundational skills necessary to execute professional web application assessments. It covers essential techniques for identifying and exploiting XSS, SQL Injection, SSRF, and more. The course is geared towards entry-level to intermediate web attacks in black-box fashion. 
 {{< figure src=/images/training-blogpost/oswa.png align=center width="30%">}}
 
 ##### Cost
@@ -134,7 +134,7 @@ The course is available in different pricing:
 
 ### Synactiv
 {{< figure src=/images/training-blogpost/synacktiv.png align=center width="30%" >}}
-Synacktiv is a Cyber security company founded by 2 IT security experts from France. It has grown to be one of the established names in the cyber security industry. They only recently added Live/Virtual training's to their portfolio of services. Their training's are delivered on-site in their Paris office, but only in French. However, the online sessions are taught in English. You can find their training schedule on their [training page](https://www.synacktiv.com/en/offers/trainings).
+Synacktiv is a cybersecurity company founded by two IT security experts from France. It has grown into one of the established names in the field. They only recently added live/virtual trainings to their portfolio. Their onsite trainings are delivered in Paris and in French; however, their online sessions are taught in English. You can find their training schedule on their [training page](https://www.synacktiv.com/en/offers/trainings).
 
 #### [Attacking Web Applications](https://www.synacktiv.com/en/offers/trainings/attacking-web-applications)
 During this five-day training, participants will study the functioning of the security mechanisms implemented in recent web applications. The various exercises resulting from the feedback of our experts will allow them to refine their intrusion methods for the exploitation of complex vulnerabilities. Finally, learners will be able to understand the specificity of Java, PHP, Python and ASP.NET languages and frameworks, using dedicated modules.
@@ -154,7 +154,7 @@ During this five-day course, you will acquire the skills necessary to identify c
 
 ### APISEC University
 {{< figure src=/images/training-blogpost/apisec_university_logo.jpeg  align=center >}}
-Training provider focusing purely on API Security, instructed by Corey J. Ball (know author of [Hacking API's](https://nostarch.com/hacking-apis)) Offering multiple free API security courses on their website.
+Training provider focusing purely on API Security, instructed by Corey J. Ball (known author of [*Hacking API's*](https://nostarch.com/hacking-apis)) . They offer multiple free API security courses on their website.
 
 #### [API Security (ASCP)](https://www.apisecuniversity.com/courses/api-penetration-testing)
 The API penetration testing course providing hands-on training, focusing on techniques to identify and address API specific vulnerabilities. The exam consists of 2 API-driven applications which have to be exploited and reported.
@@ -165,7 +165,7 @@ Course material is free, The exam costs $450 + 1 free retake
 
 ### Agarri.fr
 #### [Mastering Burp Suite 100% Hands-on](https://hackademy.agarri.fr/)
-This training is offered by Nicolas Grégoire, an official Burp Suite Pro trainer. He will teach you how to master Burp Suite Pro in in-person or online training format training for 4 consecutive days. The training is regularly scheduled at security conferences and by Nicolas himself. It's offered in French and English. This training offers no certification exam.
+This training is offered by Nicolas Grégoire, an official Burp Suite Pro trainer. He will teach you how to master Burp Suite Pro in in-person or online training format training for 4 consecutive days. The training is regularly scheduled at security conferences and by Nicolas himself. It's offered in French and English. This training does not include a certification exam.
 {{< figure src=/images/training-blogpost/master-burpsuite-100_hands-on.png align=center width="50%">}}
 
 ##### Cost
@@ -176,7 +176,7 @@ Private training options are also available.
 
 | Training Name                                                     | Certification Name                                 | Vendor            | Training Format                | Certification                                                | Level                      | Cost            | Info                                                 | Link                                                                                        |
 | ----------------------------------------------------------------- | -------------------------------------------------- | ----------------- | ------------------------------ | ------------------------------------------------------------ | -------------------------- | --------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Portswigger academy                                               | Burp Suite Certiied Practitioner (BSCP)            | Portswigger       | Online Labs                    | Proctored exam, 4 hours, Hands-on Lab                        | Intermediate               | Free, Exam: $90 | Course and labs are free, Exam attempt cost $90      | https://portswigger.net/web-security                                                        |
+| PortSwigger Academy                                               | Burp Suite Certiied Practitioner (BSCP)            | Portswigger       | Online Labs                    | Proctored exam, 4 hours, Hands-on Lab                        | Intermediate               | Free, Exam: $90 | Course and labs are free, Exam attempt cost $90      | https://portswigger.net/web-security                                                        |
 | Web Penetration Tester Job-Role Path                              | HTB Certified Web Exploitation Specialist (CWES)   | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 7 days, Hands-on Lab + report            | Entry-Level / Intermediate | €410 excl VAT   | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/      |
 | Senior Web Penetration Tester Job-Role Path                       | HTB Certified Web Exploitatin Expert (CWEE)        | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 10 days, Hands-on Lab + report           | Expert                     | €1.055 excl VAT | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert |
 | Web Application Penetration Testing Professional Learning Path    | Web Application Penetration Tester (eWPT)          | INE Security      | On-Demand course, videos, labs | Non-proctored exam, 10 hours, Multiple choice, Hands-on Lab  | Entry-level                | $599            | Certification exam + 3 month Premium pass            | https://security.ine.com/certifications/ewpt-certification/                                 |
@@ -197,7 +197,7 @@ These trainings are ideal for pentesters or developers who want to expand into m
 The INE security training curriculum currently holds one mobile penetration testing course / certification.
 
 #### [Mobile Application Penetration Tester (eMAPT)](https://security.ine.com/certifications/emapt-certification/)
-INE recently revamped their mobile security certification. The training focuses on both Android and iOS platforms, whereas their old course only focused on Android. The course trains you from the ground up from understanding how mobile applications work to ultimately exploiting common vulnerabilities in mobile platforms. The exam changed to multiple choice format with a hands-on lab
+INE recently revamped their mobile security certification. The training now covers both Android and iOS platforms, whereas their previous course focused only on Android. The curriculum takes you from the fundamentals of how mobile applications work through to exploiting common vulnerabilities in mobile environments. The exam has shifted to a multiple-choice format with a hands-on lab.
 {{< figure src=/images/training-blogpost/eMAPT.png align=center width="30%" >}}
 
 #### Cost
@@ -206,10 +206,10 @@ The premium pass gives access to INE's entire content library.
 
 ### Mobile Hacking Lab
 {{< figure src=/images/training-blogpost/mobile-hacking-lab.png align=center width="30%" >}}
-Unlock the world of mobile security with Mobile Hacking Lab' comprehensive mobile hacking courses, available online, including free options for beginners. Their curriculum is designed to offer practical, hands-on experience in mobile security, preparing you for real-world challenges. Whether you're starting or advancing your skills, our courses provide the tools you need to succeed in the fast-evolving digital landscape. They offer exclusively mobile trainings, you can find their full training catalog on their [courses page](https://www.mobilehackinglab.com/link/K8xHa1).
+Unlock the world of mobile security with Mobile Hacking Lab' comprehensive mobile hacking courses, available online, including free options for beginners. Their curriculum is designed to offer practical, hands-on experience in mobile security, preparing you for real-world challenges. Whether you're starting or advancing your skills, our courses provide the tools you need to succeed in the fast-evolving digital landscape. They offer exclusively mobile trainings, and you can find their full catalog on their [courses page](https://www.mobilehackinglab.com/link/K8xHa1).
 
 #### [Certified Android Penetration Tester (CAPT)](https://www.mobilehackinglab.com/course/free-android-application-security-course)
-A fully free, self-paced training designed to help you become a Certified Android Penetration Tester (CAPT). The course covers core aspects of Android app security and gives you the option to take the CAPT exam upon completion.
+A completely free, self-paced training designed to help you become a Certified Android Penetration Tester (CAPT). The course covers core aspects of Android app security and gives you the option to take the CAPT exam upon completion.
 You can purchase additional labs to enhance and complement the learning environment.
 {{< figure src=/images/training-blogpost/mhl-capt.png align=center width="50%" >}}
 
@@ -219,7 +219,7 @@ The course content is free.
 The certification attempt costs €229.
 
 #### [Certified iOS Penetration Tester (CIPT)](https://www.mobilehackinglab.com/course/free-ios-application-security-course)
-A fully free, self-paced training designed to guide learners toward becoming a Certified iOS Penetration Tester (CIPT). The course covers the essentials of iOS application security through practical lessons and assignments. After completing the training, you can take the CIPT exam to earn certification. You can purchase additional labs to enhance and complement the learning environment.
+A completely free, self-paced training designed to guide learners toward becoming a Certified iOS Penetration Tester (CIPT). The course covers the essentials of iOS application security through practical lessons and assignments. After completing the training, you can take the CIPT exam to earn certification. You can purchase additional labs to enhance and complement the learning environment.
 {{< figure src=/images/training-blogpost/mhl-cipt.png align=center width="50%" >}}
 
 ##### Cost
@@ -245,17 +245,17 @@ The course comes with 90 days lab access + life time access to course material +
 
 ### Synacktiv
 {{< figure src=/images/training-blogpost/synacktiv.png align=center width="30%" >}}
-The synacktiv training curiculum currently holds one offensive mobile penetration testing course.
+The Synacktiv training catalog currently features one offensive mobile penetration testing course.
 
 #### [Attacking Android Applications](https://www.synacktiv.com/en/offers/trainings/attacking-android-applications)
-Discover methodologies and techniques for analyzing Android applications. Architecture, entry points, static and dynamic analyses, master the pentesting methodology of the Android environment. This course is targeted for entry-level mobile pentesters.
+Discover methodologies and techniques for analyzing Android applications. You will study architecture, entry points, static and dynamic analysis, and master Android pentesting methodologies. This course is targeted for entry-level mobile pentesters.
 
 ##### Cost
 The cost of their 2 day training offerings is not posted on their website. It's €4.500* excl VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
 
 ### SANS
 {{< figure src=/images/training-blogpost/Sans-logo.png align=center >}}
-The most elite training provider when it comes down to security trainings, however also the most expensive (by far). They offer a wide security training curriculum, from theoretical to very hands-on trainings. Always taught live in-person all over the world. Although their trainings are very expensive, they do offer student/facilitator programs which you can apply for to enter the training at a more affordable price, but still pricy. They do have some of the best instructors at their disposal. If you ever have the opportunity to do a SANS course, by having your employer pay for it, it can be worth it.
+The most elite training provider when it comes down to security trainings, however also the most expensive (by far). They offer a wide security training curriculum, from theoretical to very hands-on trainings. Always taught live in-person all over the world. Although their trainings are very expensive, they do offer student/facilitator programs which you can apply for to enter the training at a more affordable price, but still pricy. They have some of the best instructors at their disposal. If you ever have the opportunity to do a SANS course, by having your employer pay for it, it can be worth it.
 
 #### [SEC575 GIAC Mobile Device Security Analyst (GMOB)](https://www.sans.org/cyber-security-courses/ios-android-application-security-analysis-penetration-testing/)
 One of the coolest SANS courses is authored and instructed by my former colleague [Jeroen Beckers](https://be.linkedin.com/in/beckersjeroen), who is also a co-author of the [OWASP MASVS](https://github.com/OWASP/owasp-masvs). It focuses on both iOS and Android platforms. This could be the best mobile security course out there.
@@ -279,7 +279,9 @@ If you do the in-person training it costs $8.780 + $999 for the on-demand bundle
 
 
 ## Footnote
+The trainings listed here are based on publicly available information as of October 2025, and prices or details may change over time.
 
+If you know of other web, API, or mobile security trainings that deserve a mention, feel free to reach out. I’d love to include them in future updates or upcoming parts of the series.
 
 ### Additional Resources
 - Security Certification Roadmap - Paul Jerimy: https://pauljerimy.com/security-certification-roadmap/
