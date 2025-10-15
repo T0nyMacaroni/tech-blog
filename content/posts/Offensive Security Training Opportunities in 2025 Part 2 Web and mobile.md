@@ -19,7 +19,7 @@ tags:
   - APISEC-University
   - Agarri.fr
   - MobileHackingLab
-  - Synactiv
+  - Synacktiv
   - Web-Pentesting
   - Mobile-Pentesting
 ShowToc: true
@@ -63,8 +63,8 @@ PortSwigger Academy offers **free** course content on web application vulnerabil
 ##### Cost
 Free
 
-#### [Burp Suite Certfied Professional (BSCP)](https://portswigger.net/web-security/certification)
-Based on the topics covered in their Academy, PortSwigger offers a stand alone web application pentester certification. The exam is pretty hard giving you only 4 hours to completely pwn 2 web applications; however, no report is needed. It is recommended that you complete all practitioner level labs in the academy and do their practice exam. This is a must have for any web application penetration tester!
+#### [Burp Suite Certified Professional (BSCP)](https://portswigger.net/web-security/certification)
+Based on the topics covered in their Academy, PortSwigger offers a standalone web application pentester certification. The exam is pretty hard giving you only 4 hours to completely pwn 2 web applications; however, no report is needed. It is recommended that you complete all practitioner level labs in the academy and do their practice exam. This is a must have for any web application penetration tester!
 {{< figure src=/images/training-blogpost/bscp.png  align=center width="30%">}}
 
 ##### Cost
@@ -75,7 +75,7 @@ $90 for 1 exam voucher
 Via their academy platform HTB offers 2 web focused certifications:
 
 #### [HTB Certified Web Exploitation Specialist (CWES)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
-The CWES (FKA Certified Bug Bounty Hunter - CBBH) is an entry-level / intermediate web pentesting certification. It focuses technical competency in the web application penetration testing and bug bounty domains. It focuses on black-box testing techniques. Course completion is required to start the exam.
+The CWES (FKA Certified Bug Bounty Hunter - CBBH) is an entry-level / intermediate web pentesting certification. It focuses on technical competency in the web application penetration testing and bug bounty domains. It focuses on black-box testing techniques. Course completion is required to start the exam.
 {{< figure src=/images/training-blogpost/htb-cwes.png  align=center width="30%">}}
 
 ##### Cost
@@ -97,7 +97,7 @@ The eWPT covers essential web vulnerabilities and how to exploit them. This is a
 {{< figure src=/images/training-blogpost/eWPT.png align=center width="30%" >}}
 
 ##### Cost
-$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its $749 for the Premium pass annually. 
+$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, it's $749 for the Premium pass annually. 
 The premium pass gives access to INE's entire content library.
 
 #### [INE Security Web Application Penetration Tester eXtreme (eWPTX)](https://security.ine.com/certifications/ewptx-certification/)
@@ -105,7 +105,7 @@ The eWPTX continues where the eWPT left off. Covering more advanced techniques i
 {{< figure src=/images/training-blogpost/eWPTX.png align=center width="30%" >}}
 
 ##### Cost
-$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its $749 for the Premium pass annually. 
+$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, it's $749 for the Premium pass annually. 
 The premium pass gives access to INE's entire content library.
 
 ### OffSec
@@ -132,7 +132,7 @@ The course is available in different pricing:
 - Learn One annual subscription: including fundamental courses, KLCP and OSWP ($2.749)
 - Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts ($6.099)
 
-### Synactiv
+### Synacktiv
 {{< figure src=/images/training-blogpost/synacktiv.png align=center width="30%" >}}
 Synacktiv is a cybersecurity company founded by two IT security experts from France. It has grown into one of the established names in the field. They only recently added live/virtual trainings to their portfolio. Their onsite trainings are delivered in Paris and in French; however, their online sessions are taught in English. You can find their training schedule on their [training page](https://www.synacktiv.com/en/offers/trainings).
 
@@ -140,7 +140,7 @@ Synacktiv is a cybersecurity company founded by two IT security experts from Fra
 During this five-day training, participants will study the functioning of the security mechanisms implemented in recent web applications. The various exercises resulting from the feedback of our experts will allow them to refine their intrusion methods for the exploitation of complex vulnerabilities. Finally, learners will be able to understand the specificity of Java, PHP, Python and ASP.NET languages and frameworks, using dedicated modules.
 
 ##### Cost
-€4.500* excl VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
+€4.500* excl. VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
 
 \* cost is based on other 5 day trainings listed on their platform.
 
@@ -148,7 +148,7 @@ During this five-day training, participants will study the functioning of the se
 During this five-day course, you will acquire the skills necessary to identify complex vulnerabilities within the source code of Java, PHP and .NET applications. Based on many practical cases on popular frameworks such as Spring or Symfony, participants will learn how to optimize their research using static and dynamic analysis tools. It is recommended to have a solid understanding of Web application technologies and vulnerabilities before enrolling in the course.
 
 ##### Cost
-€4.500* excl VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
+€4.500* excl. VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
 
 \* cost is based on other 5 day trainings listed on their platform.
 
@@ -174,19 +174,19 @@ Private training options are also available.
 
 ### Overview
 
-| Training Name                                                     | Certification Name                                 | Vendor            | Training Format                | Certification                                                | Level                      | Cost            | Info                                                 | Link                                                                                        |
-| ----------------------------------------------------------------- | -------------------------------------------------- | ----------------- | ------------------------------ | ------------------------------------------------------------ | -------------------------- | --------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| PortSwigger Academy                                               | Burp Suite Certiied Practitioner (BSCP)            | Portswigger       | Online Labs                    | Proctored exam, 4 hours, Hands-on Lab                        | Intermediate               | Free, Exam: $90 | Course and labs are free, Exam attempt cost $90      | https://portswigger.net/web-security                                                        |
-| Web Penetration Tester Job-Role Path                              | HTB Certified Web Exploitation Specialist (CWES)   | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 7 days, Hands-on Lab + report            | Entry-Level / Intermediate | €410 excl VAT   | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/      |
-| Senior Web Penetration Tester Job-Role Path                       | HTB Certified Web Exploitatin Expert (CWEE)        | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 10 days, Hands-on Lab + report           | Expert                     | €1.055 excl VAT | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert |
-| Web Application Penetration Testing Professional Learning Path    | Web Application Penetration Tester (eWPT)          | INE Security      | On-Demand course, videos, labs | Non-proctored exam, 10 hours, Multiple choice, Hands-on Lab  | Entry-level                | $599            | Certification exam + 3 month Premium pass            | https://security.ine.com/certifications/ewpt-certification/                                 |
-| Advanced Web Application Penetration Testing                      | Web Application Penetration Tester eXtreme (eWPTX) | INE Security      | On-Demand course, videos, labs | Non-proctored exam, 7 days (+ 7 days), Hands-on Lab + report | Intermediate               | $599            | Certification exam + 3 month Premium pass            | https://security.ine.com/certifications/ewptx-certification/                                |
-| WEB-200: Foundational Web Application Assessments with Kali Linux | OffSec Web Assessor (OSWA)                         | OffSec            | On-Demand course, Labs         | Proctored exam, 24 hours (+24 hours), Hands-On Lab + report  | Intermediate               | $1.749          | 3 month lab access 1 exam attempt                    | https://www.offsec.com/courses/web-200/                                                     |
-| WEB-300: Advanced Web Attacks and Exploitation                    | OffSec Web Expert (OSWE)                           | OffSec            | On-Demand course, Labs         | Proctored exam, 48 hours (+24 hours), Hands-On Lab + report  | Expert                     | $1.749          | 3 month lab access 1 exam attempt                    | https://www.offsec.com/courses/web-300/                                                     |
-| Attacking Web Applications                                        | X                                                  | Synacktiv         | In-Person/Virtual              | No                                                           | Intermediate               | €4.500          | 5 day in-person (or virtual) course                  | https://www.synacktiv.com/en/offers/trainings/attacking-web-applications                    |
-| Practical Web 0-day hunting                                       | X                                                  | Synacktiv         | In-Person/Virtual              | No                                                           | Intermediate / Expert      | €4.500          | 5 day in-person (or virtual) course                  | https://www.synacktiv.com/en/offers/trainings/practical-web-0-day-hunting                   |
-| API Penetration Testing Course                                    | API Security Certified Professional                | APISEC University | On-Demand course, Labs         | Non-proctored exam, 12 hours, Hands-on Lab                   | Intermediate               | Free, Exam $450 | Course is Free, $450 Exam attempt + 1 free retake    | https://www.apisecuniversity.com/courses/api-security-certified-professional-exam           |
-| Mastering Burp Suite Pro                                          | X                                                  | Agarri.fr         | In-Person/Virtual              | No                                                           | Intermediate / Expert      | €3.133          | 4 day in-person (or virtual) course                  | https://hackademy.agarri.fr/                                                                |
+| Training Name                                                     | Certification Name                                 | Vendor            | Training Format                | Certification                                                | Level                      | Cost             | Info                                                 | Link                                                                                        |
+| ----------------------------------------------------------------- | -------------------------------------------------- | ----------------- | ------------------------------ | ------------------------------------------------------------ | -------------------------- | ---------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| PortSwigger Academy                                               | Burp Suite Certiied Practitioner (BSCP)            | Portswigger       | Online Labs                    | Proctored exam, 4 hours, Hands-on Lab                        | Intermediate               | Free, Exam: $90  | Course and labs are free, Exam attempt cost $90      | https://portswigger.net/web-security                                                        |
+| Web Penetration Tester Job-Role Path                              | HTB Certified Web Exploitation Specialist (CWES)   | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 7 days, Hands-on Lab + report            | Entry-Level / Intermediate | €410 excl. VAT   | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/      |
+| Senior Web Penetration Tester Job-Role Path                       | HTB Certified Web Exploitatin Expert (CWEE)        | Hack The Box      | On-Demand course, Labs         | Non-proctored exam, 10 days, Hands-on Lab + report           | Expert                     | €1.055 excl. VAT | Annual subscription, 100% course completion required | https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert |
+| Web Application Penetration Testing Professional Learning Path    | Web Application Penetration Tester (eWPT)          | INE Security      | On-Demand course, videos, labs | Non-proctored exam, 10 hours, Multiple choice, Hands-on Lab  | Entry-level                | $599             | Certification exam + 3 month Premium pass            | https://security.ine.com/certifications/ewpt-certification/                                 |
+| Advanced Web Application Penetration Testing                      | Web Application Penetration Tester eXtreme (eWPTX) | INE Security      | On-Demand course, videos, labs | Non-proctored exam, 7 days (+ 7 days), Hands-on Lab + report | Intermediate               | $599             | Certification exam + 3 month Premium pass            | https://security.ine.com/certifications/ewptx-certification/                                |
+| WEB-200: Foundational Web Application Assessments with Kali Linux | OffSec Web Assessor (OSWA)                         | OffSec            | On-Demand course, Labs         | Proctored exam, 24 hours (+24 hours), Hands-On Lab + report  | Intermediate               | $1.749           | 3 month lab access 1 exam attempt                    | https://www.offsec.com/courses/web-200/                                                     |
+| WEB-300: Advanced Web Attacks and Exploitation                    | OffSec Web Expert (OSWE)                           | OffSec            | On-Demand course, Labs         | Proctored exam, 48 hours (+24 hours), Hands-On Lab + report  | Expert                     | $1.749           | 3 month lab access 1 exam attempt                    | https://www.offsec.com/courses/web-300/                                                     |
+| Attacking Web Applications                                        | X                                                  | Synacktiv         | In-Person/Virtual              | No                                                           | Intermediate               | €4.500           | 5 day in-person (or virtual) course                  | https://www.synacktiv.com/en/offers/trainings/attacking-web-applications                    |
+| Practical Web 0-day hunting                                       | X                                                  | Synacktiv         | In-Person/Virtual              | No                                                           | Intermediate / Expert      | €4.500           | 5 day in-person (or virtual) course                  | https://www.synacktiv.com/en/offers/trainings/practical-web-0-day-hunting                   |
+| API Penetration Testing Course                                    | API Security Certified Professional                | APISEC University | On-Demand course, Labs         | Non-proctored exam, 12 hours, Hands-on Lab                   | Intermediate               | Free, Exam $450  | Course is Free, $450 Exam attempt + 1 free retake    | https://www.apisecuniversity.com/courses/api-security-certified-professional-exam           |
+| Mastering Burp Suite Pro                                          | X                                                  | Agarri.fr         | In-Person/Virtual              | No                                                           | Intermediate / Expert      | €3.133           | 4 day in-person (or virtual) course                  | https://hackademy.agarri.fr/                                                                |
 
 
 ## Mobile Pentesting
@@ -201,7 +201,7 @@ INE recently revamped their mobile security certification. The training now cove
 {{< figure src=/images/training-blogpost/eMAPT.png align=center width="30%" >}}
 
 #### Cost
-$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its $749 for the Premium pass annually. 
+$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, it's $749 for the Premium pass annually. 
 The premium pass gives access to INE's entire content library.
 
 ### Mobile Hacking Lab
@@ -251,7 +251,7 @@ The Synacktiv training catalog currently features one offensive mobile penetrati
 Discover methodologies and techniques for analyzing Android applications. You will study architecture, entry points, static and dynamic analysis, and master Android pentesting methodologies. This course is targeted for entry-level mobile pentesters.
 
 ##### Cost
-The cost of their 2 day training offerings is not posted on their website. It's €4.500* excl VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
+The cost of their 2 day training offerings is not posted on their website. It's €4.500* excl. VAT for 5 day training online (English) or in-person (currently only in Paris and in French)
 
 ### SANS
 {{< figure src=/images/training-blogpost/Sans-logo.png align=center >}}
