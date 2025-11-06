@@ -39,7 +39,7 @@ cover:
 ## Intro
 Welcome back to the series Offensive Security Training Opportunities in 2025. In Parts 1 and 2, we explored foundational pentesting platforms and specialized tracks in web, API, and mobile application security.
 
-In this third installment, weĺl turn our attention to red-team and blue-team training opportunities, including advanced offensive operations, adversary emulation,  detection engineering, incident response, and other operational security skills. 
+In this third installment, weĺl turn our attention to red team and blue team training opportunities, including advanced offensive operations, adversary emulation,  detection engineering, incident response, and other operational security skills. 
 Whether you’re looking to enhance your attack-side capabilities or strengthen your defensive posture, the following trainings will definitely help you on your way.
 
 This post is Part 3 of the *Offensive Security Training Opportunities in 2025*. You can find the other posts in the links below:
@@ -55,7 +55,7 @@ Again if you are only interested in the summary, I have included a table at the 
 - [Red Team Overview](#overview)
 - [Blue Team Overview](#overview-1)
 
-## Red-Team 
+## Red Team 
 Trainings in this section focus on offensive operations, emulating adversaries, exploiting vulnerabilities, and testing environments from the attacker’s perspective. The resources listed here will help you build or advance your capabilities in threat emulation and adversary simulation. Although some offerings are entry-level, foundational pentesting knowledge is required to proceed. 
 
 
@@ -64,7 +64,7 @@ Trainings in this section focus on offensive operations, emulating adversaries, 
 Formerly known as Pentester Academy, Nikhil Mittal founded Altered Security. Part of Pentester Academy was sold to INE Security. Their well-known red team certifications remain available under the Altered Security name. Altered Security is known for their excellent labs like the Global Central Bank.
 
 #### [Certified Red Team Professional (CRTP)](https://www.alteredsecurity.com/adlab)
-CRTP focuses on entry-level Active Directory penetration testing from a Windows perspective. Although the course is fully taught from the windows perspective, lab walkthroughs using a C2 (Sliver) are also provided.
+CRTP focuses on entry-level Active Directory penetration testing from a Windows perspective. Although the course is fully taught from the Windows perspective, lab walkthroughs using a C2 (Sliver) are also provided.
 {{< figure src=/images/training-blogpost/CRTP.png align=center width="50%">}}
 
 ##### Cost
@@ -88,7 +88,7 @@ The training is available in 3 options:
 Note: They offer regular discounts on their trainings (20-25%).
 
 #### [Certified Red Team Master (CRTM)](https://www.alteredsecurity.com/gcb)
-This training formerly known as PACES or Global Central Bank, is the most advanced Active Directory training offered by Altered Security.
+This training, formerly known as PACES or Global Central Bank, is the most advanced Active Directory training offered by Altered Security.
 {{< figure src=/images/training-blogpost/CRTM.png align=center width="50%">}}
 
 ##### Cost
@@ -120,7 +120,7 @@ From time to time Altered Security offers Bootcamps for their certifications whe
 Red Team training provider by Daniel Duggan aka [RastaMouse](https://github.com/rasta-mouse). Known for delivering the most value for money Red Team trainings on the market. They recently updated their platform and pricing method to make their courses more accessible in diverse countries.
 
 #### [Certified Red Team Operator (CRTO)](https://www.zeropointsecurity.co.uk/course/red-team-ops) 
-The most well-known Red Team Training out there. Covers all necessary topics to excel in performing adversary simulation and emulation exercises. Recently updated to a new version (May 2025). The course includes labs and is focused on active directory attacks and uses the Cobalt Strike C2 framework. The course teaches good OPSEC and the mindset that is needed to perform red-team engagements.
+The most well-known Red Team Training out there. Covers all necessary topics to excel in performing adversary simulation and emulation exercises. Recently updated to a new version (May 2025). The course includes labs and is focused on active directory attacks and uses the Cobalt Strike C2 framework. The course teaches good OPSEC and the mindset that is needed to perform red team engagements.
 {{< figure src=/images/training-blogpost/CRTO.png align=center width="30%">}}
 
 ##### Cost
@@ -204,7 +204,7 @@ Note: Lab costs (AWS, Azure, GCP) is not included
 The creators of Bloodhound, Ghostwriter and many offensive security other tools. Also known for their cutting edge research like ADCS, SCCM and many other security topics. SpecterOps provides advanced level training courses in the red and blue team domain taught by their experts in the field.
 
 #### [SpecterOps Adversary Tactics: Red Team Operations (RTO)](https://specterops.io/training/red-team-operations/)
-The Red Team operations is a live in-person 4-day training course taught by multiple SpecterOps instructors. This course is heavily hands-on focused as you get access to a custom lab where you can apply the Red Team Tactics and Techniques that are being taught in the course, while you are actively being hunted by a live Blue Team. Therefore this is, according to me, one of the best courses teaching you Red Team techniques while also giving you important OPSEC knowledge. The course does not offer any certification or exam. However, you do receive a certificate of completion and a special course coin.
+The Red Team operations is a live in-person 4-day training course taught by multiple SpecterOps instructors. This course is heavily hands-on focused as you get access to a custom lab where you can apply the Red Team Tactics and Techniques that are being taught in the course, while you are actively being hunted by a live Blue Team. In my opinion, this is one of the best courses teaching you Red Team techniques while also giving you important OPSEC knowledge. The course does not offer any certification or exam. However, you do receive a certificate of completion and a special course coin.
 
 ##### Cost
 Training live or virtual costs **$4.500**\* (excl. VAT)
@@ -213,7 +213,7 @@ However, they usually offer early bird pricing and returning student discounts (
 \*The cost is based on the ticket price for their live training during SOCON 2026
 
 #### [SpecterOps Adversary Tactics: Identity-driven Offensive Tradecraft (IDOT)](https://specterops.io/training/identity-driven-offensive-tradecraft/)
-The IDOT course is considered the follow up course on the RTO. The course offers an in-depth look on identity-driven attacks, targeting both on-premises and hybrid identities. The course adopts the [Clean Source Principle](https://www.youtube.com/watch?v=MPw6bowbU88) and explains it very well with attacks on Kerberos, NTLM, ADCS, SCCM, Entra and even external identity providers. If you want to improve your offensive skills to the next level, this is a must have course! They offer courses in US and EU region.
+The IDOT course is considered the follow up course on the RTO. The course offers an in-depth look on identity-driven attacks, targeting both on-premises and hybrid identities. The course adopts the [Clean Source Principle](https://www.youtube.com/watch?v=MPw6bowbU88) and explains it very well with attacks on Kerberos, NTLM, ADCS, SCCM, Entra and even external identity providers. If you want to improve your offensive skills to the next level, this is a must have course! 
 
 ##### Cost
 Training live or virtual costs **$4.500**\* (excl. VAT)
@@ -272,18 +272,18 @@ During this five-day training, you will deepen your intrusion skills in an Activ
 | PEN-300: Advanced Evasion Techniques and Breaching Defenses                               | OffSec Experienced Penetration Tester (OSEP)                | OffSec              | On-Demand course, Videos, Labs          | Proctored exam, 48 hours (+24 hours), Hands-on lab + report     | Expert                | $1.749                          | 3 month lab access 1 exam attempt                                                                    | [Course Link](https://www.offsec.com/courses/pen-300/)                                                                                                                                         |
 | HTB ProLabs                                                                               | Multiple                                                    | Hack The Box        | On-Demand Labs                          | No                                                              | Entry-level - Expert  | €440                            | Annual subscription, each ProLab offers a certificate of completion                                  | [Labs Link](https://www.hackthebox.com/hacker/pro-labs)                                                                                                                                        |
 | Active Directory Penetration Tester Job-Role Path                                         | HTB Certified Active Directory Pentesting Expert (HTB CAPE) | Hack The Box        | On-Demand course, Labs                  | Non-proctored exam, 10 days, Hands-on lab + report              | Intermediate / Expert | €1.055                          | Annual subscription, 1 exam attempt + retake, 100% course completion required                        | [Course Link](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert)                                                                          |
-| Advance Red Team Operations                                                               | Advance Red Team Operations Certification (ARTOC)           | White Knight Labs   | On-Demand course, Live virtual          | Hands-on lab (no info)                                          | Intermediate          | $700 or $1200                   | Lifetime access, 1 exam attempt, excluding Lab costs                                                 | [Course Link](https://training.whiteknightlabs.com/certifications/advanced-red-team-operations-certification/)                                                                                 |
-| Offensive Development Practitioner                                                        | Offensive Development Practitioner Certification (ODPC)     | White Knight Labs   | On-Demand course, Live virtual          | Hands-on lab (no info)                                          | Intermediate          | $700 or $1200                   | Lifetime access, 1 exam attempt, excluding Lab costs                                                 | [Course Link](https://training.whiteknightlabs.com/live-training/offensive-development-practitioner-certification/)                                                                            |
+| Advance Red Team Operations                                                               | Advance Red Team Operations Certification (ARTOC)           | White Knight Labs   | On-Demand course, Live virtual          | Hands-on lab (no info)                                          | Intermediate          | $700 or $1.200                  | Lifetime access, 1 exam attempt, excluding Lab costs                                                 | [Course Link](https://training.whiteknightlabs.com/certifications/advanced-red-team-operations-certification/)                                                                                 |
+| Offensive Development Practitioner                                                        | Offensive Development Practitioner Certification (ODPC)     | White Knight Labs   | On-Demand course, Live virtual          | Hands-on lab (no info)                                          | Intermediate          | $700 or $1.200                  | Lifetime access, 1 exam attempt, excluding Lab costs                                                 | [Course Link](https://training.whiteknightlabs.com/live-training/offensive-development-practitioner-certification/)                                                                            |
 | Adversary Tactics: Red Team Operator                                                      | X                                                           | SpecterOps          | Live in-person/virtual                  | No                                                              | Intermediate          | $4.500                          | 4 day in-person or virtual course, SOCON 2026 price                                                  | [Course Link](https://specterops.io/training/red-team-operations/)                                                                                                                             |
 | Adversary Tactics: Identity Driven Offensive Tradecraft                                   | X                                                           | SpecterOps          | Live in-person/virtual                  | No                                                              | Expert                | $4.500                          | 4 day in-person or virtual course, SOCON 2026 price                                                  | [Course Link](https://specterops.io/training/identity-driven-offensive-tradecraft/)                                                                                                            |
 | SEC565: Red Team Operations and Adversary Emulation™                                      | GIAC Red Team Professional (GRTP)                           | SANS                | Live in-person/virtual                  | Proctored exam, 2 hours, Multiple-choice                        | Expert                | €9.135 or $9.779 + $999 (exam)  | 6 day in-person or virtual training + 4 Months On-Demand bundle                                      | [Course Link](https://www.sans.org/cyber-security-courses/red-team-operations-adversary-emulation/) <br> [Certification Link](https://www.giac.org/certifications/red-team-professional-grtp/) |
 | SEC670: Red Teaming Tools - Developing Windows Implants, Shellcode, Command and Control   | X                                                           | SANS                | Live in-person/virtual                  | No                                                              | Expert                | €9.135 or $9.779                | 6 day in-person or virtual training + 4 Months On-Demand bundle                                      | [Course Link](https://www.sans.org/cyber-security-courses/red-team-operations-developing-custom-tools-windows)                                                                                 |
-| Active Directory Intrusion Tactics: Entry Level                                           | X                                                           | Synacktiv           | Live in-person/virtual                  | No                                                              | Intermediate          | €4.500                          | 5 day in-person (French) or virtual course (English)                                                 | [Course Link](https://www.sans.org/cyber-security-courses/red-team-operations-developing-custom-tools-windows)                                                                                 |
-| Active Directory Intrusion Tactics: Advanced Level                                        | X                                                           | Synacktiv           | Live in-person/virtual                  | No                                                              | Expert                | €4.500                          | 5 day in-person (French) or virtual course (English)                                                 | [Course Link](https://www.sans.org/cyber-security-courses/red-team-operations-developing-custom-tools-windows)                                                                                 |
+| Active Directory Intrusion Tactics: Entry Level                                           | X                                                           | Synacktiv           | Live in-person/virtual                  | No                                                              | Intermediate          | €4.500                          | 5 day in-person (French) or virtual course (English)                                                 | [Course Link](https://www.synacktiv.com/en/offers/trainings/active-directory-intrusion-tactics-entry-level)                                                                                    |
+| Active Directory Intrusion Tactics: Advanced Level                                        | X                                                           | Synacktiv           | Live in-person/virtual                  | No                                                              | Expert                | €4.500                          | 5 day in-person (French) or virtual course (English)                                                 | [Course Link](https://www.synacktiv.com/en/offers/trainings/active-directory-intrusion-tactics-advanced-level)                                                                                 |
 
 
 
-## Blue-Team
+## Blue Team
 While this blog post series focuses on offensive trainings I am convinced that it is necessary to include blue team content as it is very important to understand both sides of the playing field as an attacker as well as a defender. This section covers defensive operations, identifying, detecting, responding to, and recovering from cyber-attacks. The trainings included will help you strengthen your skills as a attacker to better understand how the defensive side works.
 
 ### OffSec
@@ -367,7 +367,7 @@ Advanced Security Operations training and certification which covers Malware Ana
 **£1.999** (excl. VAT) for 5 months of On-Demand training material access + certification attempt
 
 ### CyberDefenders 
-CyberDefenders provides a specialized training platform focused on blue-team skills for SOC analysts, threat hunters, DFIR professionals, and security teams. Their offerings include hands-on cyber-range labs, guided courses, and a certification path.
+CyberDefenders provides a specialized training platform focused on blue team skills for SOC analysts, threat hunters, DFIR professionals, and security teams. Their offerings include hands-on cyber-range labs, guided courses, and a certification path.
 {{< figure src=/images/training-blogpost/cyberdefenders_logo.jpeg align=center width="30%">}}
 
 #### [Certified CyberDefender (CCD)](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
@@ -420,7 +420,7 @@ A Belgian training provider that focuses on delivering live training on defensiv
 
 
 #### [Threathunting Academy: Evasion](https://www.threathuntingacademy.com/_files/ugd/e2ffba_bfc880fd1068411baf62cd7b05d92ebf.pdf)
-This training is a is a practical training program that combines offensive and defensive cybersecurity techniques to teach advanced evasion methods. Through hands-on labs, participants will learn how adversaries operate
+This training is a practical training program that combines offensive and defensive cybersecurity techniques to teach advanced evasion methods. Through hands-on labs, participants will learn how adversaries operate
 and how to counter their tactics effectively.
 
 ##### Cost
@@ -431,7 +431,7 @@ The in-person training costs €2.500 (excl. VAT)
 
 #### [Operational Purple Teaming for Defenders](https://red.0xbad53c.com/training/operational-purple-teaming-for-defenders)
 This hands-on training connects red and blue in a series of live attack-defense exercises and demos. The group of participants will work as one team against a simulated threat actor, APT 0x00, with full disclosure of the attacker’s progress and technical insights on the executed techniques. The adversary’s capability and stealth will steadily improve over the course of the training.
-This training is frequently taught at various security conferences such as Brucon and Black hat
+This training is frequently taught at various security conferences such as Brucon and Black Hat
 
 ##### Cost
 The training cost for a 3-day training is **€1892**\* (excl. VAT).
