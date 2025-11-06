@@ -424,19 +424,19 @@ This training is a practical training program that combines offensive and defens
 and how to counter their tactics effectively.
 
 ##### Cost
-The in-person training costs €2.500 (excl. VAT)
+The in-person training costs **€2.500** (excl. VAT)
 
 ### DXC
 {{< figure src=/images/training-blogpost/DXC-logo.png align=center width="30%">}}
 
 #### [Operational Purple Teaming for Defenders](https://red.0xbad53c.com/training/operational-purple-teaming-for-defenders)
 This hands-on training connects red and blue in a series of live attack-defense exercises and demos. The group of participants will work as one team against a simulated threat actor, APT 0x00, with full disclosure of the attacker’s progress and technical insights on the executed techniques. The adversary’s capability and stealth will steadily improve over the course of the training.
-This training is frequently taught at various security conferences such as Brucon and Black Hat
+This training is frequently taught at various security conferences such as Brucon and Black Hat.
 
 ##### Cost
-The training cost for a 3-day training is **€1892**\* (excl. VAT).
+The training cost for a 3-day training is **€1.892**\* (excl. VAT).
 
-\* Brucon pricing
+\* BRUCON 2026 pricing
 
 ### SANS
 {{< figure src=/images/training-blogpost/Sans-logo.png align=center width="30%">}}
@@ -446,7 +446,7 @@ Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses will 
 {{< figure src=/images/training-blogpost/GDAT.png align=center width="30%">}}
 
 ##### Cost
-The in-person training costs €8.230 + €905 for the On-Demand bundle. (or $8.780 + $999) Totaling **€9.135** (or **$9779**) (excl. VAT).
+The in-person training costs €8.230 + €905 for the On-Demand bundle. (or $8.780 + $999) Totaling **€9.135** (or **$9.779**) (excl. VAT).
 
 The On-Demand bundle grants 4 months access and costs **$8.780** (excl. VAT).
 
@@ -456,7 +456,7 @@ The exam costs **$999** (excl. VAT).
 SEC699 is SANS's advanced purple team offering, with a key focus on adversary emulation for data breach prevention and detection. Throughout this course, students will learn how real-life threat actors can be emulated in a realistic enterprise environment, including multiple AD forests. In true purple fashion, the goal of the course is to educate students on how adversarial techniques can be emulated (manual and automated) and detected (use cases / rules and anomaly-based detection). A natural follow-up to SEC599, this is an advanced SANS course offering, with 60 percent of class time spent in 29 hands-on labs!
 
 ##### Cost
-The in-person training costs €8.230 + €905 for the On-Demand bundle. (or $8.780 + $999) Totaling **€9.135** (or **$9779**) (excl. VAT).
+The in-person training costs €8.230 + €905 for the On-Demand bundle. (or $8.780 + $999) Totaling **€9.135** (or **$9.779**) (excl. VAT).
 
 The On-Demand bundle grants 4 months access and costs **$8.780** (excl. VAT).
 
