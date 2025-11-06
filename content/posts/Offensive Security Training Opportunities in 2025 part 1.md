@@ -24,6 +24,7 @@ cover:
   caption: Ethical hacking Training
 ---
 ![banner](/images/banners/20251001-Offensive_security_training_opportunities_2025_part1.png)
+
 ## Intro
 As an offensive security professional, or as someone aspiring to break into the field, the training opportunities in the offensive security domain have expanded over the last few years. This is very good news for anyone looking to hone their skills and learn new things, however it can become quite a maze with the many training offerings out there. 
 
@@ -35,7 +36,7 @@ Since this list has grown larger than I initially expected I have decided to spl
 
 - [Part 1: General Pentesting (This post)](#)
 - [Part 2: Web/API & Mobile Pentesting](/posts/offensive-security-training-opportunities-in-2025-part-2-web-and-mobile/)
-- [Part 3: Red & Blue Teaming (COMING SOON)](/posts/offensive-security-training-opportunities-in-2025-part-3-red-and-blue-teaming/)
+- [Part 3: Red & Blue Teaming](/posts/offensive-security-training-opportunities-in-2025-part-3-red-and-blue-teaming/)
 
 **Disclaimer:** The opinions stated in this article are solely my own and do not necessarily reflect those of my employer or other affiliations I have/had. Next to that, courses are not listed in a specific order (this is no ranking by any means). Just because a course is listed in my post does not mean I have actively taken or bought the course, although I have participated in many of these and plan on taking more from this list.
 
@@ -163,7 +164,9 @@ The first-ever penetration testing certification from TryHackMe. A beginner frie
 | The Jr Penetration Tester                    | The Jr Penetration Tester (PT1)                                  | TryHackMe    | On-Demand course, Labs         | Non-proctored exam, 2 days, hands-on lab + report            | Entry-Level                | $297                                 | Annual Subscription                                                           | [Course Link](https://tryhackme.com/certification/junior-penetration-tester)                                      |
 
 ## Footnote
-Offensive security is constantly evolving, and it promises even more opportunities to grow, learn, and sharpen your skills. Whether you’re just starting out or pushing toward advanced expertise, the key is to keep exploring and stay ahead of the curve. Stay tuned for the coming updates.
+The trainings listed here are based on publicly available information as of October 2025, and prices or details may change over time.
+
+If you know of other pentesting trainings that deserve a mention, feel free to reach out. I’d love to include them in future updates or upcoming parts of the series.
 
 ### Additional Resources
 - Security Certification Roadmap - Paul Jerimy: https://pauljerimy.com/security-certification-roadmap/
