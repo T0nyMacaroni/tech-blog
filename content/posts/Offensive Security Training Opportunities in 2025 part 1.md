@@ -55,24 +55,24 @@ Hack The Box really hit the nail on the head when it comes to gamified cyber sec
 HTB Labs offers a catalog of vulnerable machines and challenges you can hack/break into to learn real-world penetration testing skills. The labs range from entry-level to insane level difficulty boxes. It is an excellent training ground for practical skills and can be a help for pursuing multiple certifications.
 
 ##### Cost
-The Active and Seasonal machines are free.
-If you want access to the whole content library and personal machine instances you can opt for 
-VIP+ which costs €190/year (excl. VAT)
+The Active and Seasonal machines are **free**.
+
+VIP+ costs **€21/month** or **€190/year** (excl. VAT). This gives access to the whole content library and personal machine instances.
 
 #### [Hack The Box Academy](https://academy.hackthebox.com/)
 I wanted to separately highlight the HTB academy, as the platform gives access to multiple job role paths as well as learning modules from entry-level to expert topics to explore for a fair price. Additionally, they offer multiple certifications. Some of them are highlighted throughout this blog series. The advantage is that once you have completed your modules, you retain access to them even after your subscription expires.
 
 ##### Cost
 The HTB academy comes in different tiers:
-- Silver Annual €410 (excl. VAT), including 1 exam voucher + 1 free retake
-- Gold Annual €1.055 (excl. VAT), including 1 exam voucher + 1 free retake
+- Silver Annual **€410** (excl. VAT), including 1 exam voucher + 1 free retake
+- Gold Annual **€1.055** (excl. VAT), including 1 exam voucher + 1 free retake
 
 #### [HTB Certified Penetration Testing Specialist (HTB CPTS)]( https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 The CPTS is a relatively new alternative to the OSCP. Teaching the pentest basics and giving the learner enough time to solve realistic pentest challenges during an exam. The course forces you to complete every module to ensure that you'll learn everything the course has to offer.
 {{< figure src=/images/training-blogpost/cpts2.png  align=center width="50%" >}}
 
 ##### Cost
-To access the CPTS course only the silver subscription is required. This costs €410 for 1 year, including 1 exam voucher + 1 free retake
+To access the CPTS course only the silver subscription is required. This costs **€410** (excl. VAT) for 1 year, including 1 exam voucher + 1 free retake.
 
 ### INE Security
 {{< figure src=/images/training-blogpost/inesecurity_logo.jpeg align=center width="30%" >}}
@@ -83,14 +83,14 @@ INE's entry-level pentester certification.  This course covers the knowledge and
 {{< figure src=/images/training-blogpost/eJPT.png align=center width="30%" >}}
 
 ##### Cost
-$249 for 3 months course (fundamentals) access + 1 exam attempt + 1 free retake.
+**$249** (excl. VAT) for 3 months course (fundamentals) access + 1 exam attempt + 1 free retake.
 
 #### [INE Security Certified Professional Penetration Tester (eCPPT)](https://security.ine.com/certifications/ecppt-certification/)
 The Professional Penetration tester training path focusses on practical, hands-on training. This learning path lays the foundation for becoming a proficient penetration tester in today's digital landscape. The eCCPT continues where the eJPT left off and is INE's equivalent to the OSCP. It is considered to be more guided than the course material for the OSCP and therefore easier to learn. Although it is not as recognized as the OSCP.
 {{< figure src=/images/training-blogpost/eCPPT.png align=center width="30%">}}
 
 ##### Cost
-$599 for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its $749 for the Premium pass annually. 
+**$599** (excl. VAT) for 3 months of premium pass* access + 1 exam attempt + 1 free retake. Afterwards, its **$749** (excl. VAT) for the Premium pass annually. 
 The premium pass gives access to INE's entire content library.
 
 ### OffSec
@@ -103,9 +103,9 @@ The OSCP is "The" certification that proves you are a skilled penetration tester
 
 ##### Cost
 The course is available in different pricing:
-- Standalone course: including 1 exam attempt, including 90 days lab access ($1.749)
-- Learn One annual subscription: including fundamental courses, KLCP and OSWP ($2.749)
-- Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts ($6.099)
+- Standalone course: including 1 exam attempt, including 90 days lab access (**$1.749**) (excl. VAT)
+- Learn One annual subscription: including fundamental courses, KLCP and OSWP (**$2.749**) (excl. VAT)
+- Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts (**$6.099**) (excl. VAT)
 
 #### [Kali Linux Certified Professional (KLCP)](https://www.offsec.com/courses/pen-103/)
 As OffSec are the creators of the Kali Linux OS, they created this course to teach you the ins and outs of the Kali Linux Operating system. The exam is a 90 min multiple choice assignment.
@@ -113,8 +113,8 @@ As OffSec are the creators of the Kali Linux OS, they created this course to tea
 
 ##### Cost
 The course itself is free; however, if you want to do the exam you have to subscribe to one of OffSec's subscriptions:
-- Learn One annual subscription: including fundamental courses, KLCP and OSWP ($2.749)
-- Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts ($6.099)
+- Learn One annual subscription: including fundamental courses, KLCP and OSWP (**$2.749**) (excl. VAT)
+- Learn Unlimited annual subscription: including access to all of OffSec courses and unlimited exam attempts (**$6.099**) (excl. VAT)
 
 
 ### TCM Security
@@ -126,41 +126,41 @@ With the PNPT, TCM Security offers another alternative to the widely known OSCP 
 {{< figure src=/images/training-blogpost/pnpt.jpeg align=center width="30%" >}}
 
 ##### Cost
-$499 for 12 months of on-demand access + 1 exam attempts + 1 free retake.
+**$499** (excl. VAT) for 12 months of on-demand access + 1 exam attempts + 1 free retake.
 
 ### TryHackMe
 {{< figure src=/images/training-blogpost/thm-logo.png align=center >}}
 TryHackMe is another gamified learning platform. It is focused on beginner friendly hacking labs to train individuals in penetration testing.
 
 #### [TryHackMe Learn Modules](https://tryhackme.com/hacktivities)
-Although their training module catalog is not as extensive as that of  their competitors, TryHackMe offers training resources at a much lower price.
+Although their training module catalog is not as extensive as that of their competitors, TryHackMe offers training resources at a much lower price.
 
 ##### Cost
 Free
-€126 /year  or €16,99/month
+**€126** /year or **€16,99**/month (excl. VAT)
 
 #### [TryHackMe PT1](https://tryhackme.com/certification/junior-penetration-tester)
 The first-ever penetration testing certification from TryHackMe. A beginner friendly pentest certification that focuses on Web, Network and AD pentest knowledge.
 {{< figure src=/images/training-blogpost/thm-pt1.jpeg align=center width="30%" >}}
 
 ##### Cost
-€297 for 3 months course access + 1 exam attempt + 1 free retake.
+**€297** (excl. VAT) for 3 months course access + 1 exam attempt + 1 free retake.
 
 
 ### Overview
 
-| Training Name                                | Certification Name                                               | Vendor       | Training Format                | Certification                                                | Level                      | Cost                                 | Info                                        | Link                                                                                               |
-| -------------------------------------------- | ---------------------------------------------------------------- | ------------ | ------------------------------ | ------------------------------------------------------------ | -------------------------- | ------------------------------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Hack The Box Labs                            | X                                                                | Hack The Box | Labs                           | X                                                            | Various                    | Free; VIP+ €190 excl VAT             | VIP: 12 Month access                        | https://app.hackthebox.com/vip                                                                    |
-| Hack The Box Academy                         | X                                                                | Hack The Box | On-Demand course, Labs         | X                                                            | Various                    | Silver plan: €410, Gold plan: €1.055 | 12 Month access excl VAT                    | https://academy.hackthebox.com                                                                     |
-| Penetration Tester Job-Role Path             | HTB Certified Penetration Testing Specialist (HTB CPTS)          | Hack The Box | On-Demand course, Labs         | Non-proctered exam, 7days, hands-on lab + report             | Entry-level                | €410 excl VAT                        | 12 Month access                             | https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist |
-| Junior Penetration Tester                    | eLearn Junior Penetration Tester                                 | INE Security | On-Demand course, videos       | Non-proctored exam, 48 hours, hands-on lab + multiple choice | Entry-level                | $249                                 | 3 Month access                              | https://security.ine.com/certifications/ejpt-certification/                                        |
-| Penetration Testing Professional             | INE Security’s Certified Professional Penetration Tester (eCCPT) | INE Security | On-Demand course, videos, labs | Non-proctored exam, 7 days (+7 days), Hands-on lab + report  | Entry-level / Intermediate | $599                                 | 3 Month access                              | https://security.ine.com/certifications/ecppt-certification/                                       |
-| PEN-200: Penetration Testing with Kali Linux | OffSec Certified Professional (OSCP/OSCP+)                       | OffSec       | On-Demand course, Labs         | Proctored, 24 hours (+24 hours), hands-on lab + report       | Entry-level                | $1.749                               | 3 month lab access 1 exam attempt           | https://www.offsec.com/courses/pen-200/                                                            |
-| PEN-103: Kali Linux Revealed                 | Kali Linux Certified Professional (KLCP)                         | OffSec       | On-Demand course               | Proctored exam, 90 minutes, multiple choice                  | Entry-level                | Free                                 | Exam only available via annual subscription | https://www.offsec.com/courses/pen-103/                                                            |
-| Practical Network Penetration Tester         | Practical Network Penetration Tester (PNPT)                      | TCM Security | On-Demand course, Labs (local) | Non-proctored exam, 5 days (+2 days), hands-on lab + report  | Entry-Level                | $499                                 | Yearly access                               | https://certifications.tcm-sec.com/pnpt/                                                           |
-| TryHackMe Rooms                              | X                                                                | TryHackMe    | On-Demand course, Labs         | X                                                            | Various                    | Free; €126                           | 12 Month access                             | https://tryhackme.com/hacktivities                                                                 |
-| The Jr Penetration Tester                    | The Jr Penetration Tester (PT1)                                  | TryHackMe    | On-Demand course, Labs         | Non-proctored exam, 2 days, hands-on lab + report            | Entry-Level                | $297                                 | Yearly access                               | https://tryhackme.com/certification/junior-penetration-tester                                      |
+| Training Name                                | Certification Name                                               | Vendor       | Training Format                | Certification                                                | Level                      | Cost (excl. VAT)                     | Info                                                                          | Link                                                                                                              |
+| -------------------------------------------- | ---------------------------------------------------------------- | ------------ | ------------------------------ | ------------------------------------------------------------ | -------------------------- | ------------------------------------ | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Hack The Box Labs                            | X                                                                | Hack The Box | Labs                           | No                                                           | Various                    | Free or €190 (VIP+)                  | VIP+: Annual Subscription                                                     | [Subscription Link](https://app.hackthebox.com/vip)                                                               |
+| Hack The Box Academy                         | X                                                                | Hack The Box | On-Demand course, Labs         | No                                                           | Various                    | Silver plan: €410, Gold plan: €1.055 | Annual Subscription                                                           | [Academy Link](https://academy.hackthebox.com)                                                                    |
+| Penetration Tester Job-Role Path             | HTB Certified Penetration Testing Specialist (HTB CPTS)          | Hack The Box | On-Demand course, Labs         | Non-proctered exam, 7days, hands-on lab + report             | Entry-level                | €410                                 | Annual subscription, 1 exam attempt + retake, 100% course completion required | [Course Link](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) |
+| Junior Penetration Tester                    | eLearn Junior Penetration Tester                                 | INE Security | On-Demand course, videos       | Non-proctored exam, 48 hours, hands-on lab + multiple choice | Entry-level                | $249                                 | 3 Month access 1 exam attempt + retake                                        | [Course Link](https://security.ine.com/certifications/ejpt-certification/)                                        |
+| Penetration Testing Professional             | INE Security’s Certified Professional Penetration Tester (eCCPT) | INE Security | On-Demand course, videos, labs | Non-proctored exam, 7 days (+7 days), Hands-on lab + report  | Entry-level / Intermediate | $599                                 | 3 Month access 1 exam attempt + retake                                        | [Course Link](https://security.ine.com/certifications/ecppt-certification/)                                       |
+| PEN-200: Penetration Testing with Kali Linux | OffSec Certified Professional (OSCP/OSCP+)                       | OffSec       | On-Demand course, Labs         | Proctored, 24 hours (+24 hours), hands-on lab + report       | Entry-level                | $1.749                               | 3 Month lab access 1 exam attempt                                             | [Course Link](https://www.offsec.com/courses/pen-200/)                                                            |
+| PEN-103: Kali Linux Revealed                 | Kali Linux Certified Professional (KLCP)                         | OffSec       | On-Demand course               | Proctored exam, 90 minutes, multiple choice                  | Entry-level                | Free                                 | Exam only available via annual subscription                                   | [Course Link](https://www.offsec.com/courses/pen-103/)                                                            |
+| Practical Network Penetration Tester         | Practical Network Penetration Tester (PNPT)                      | TCM Security | On-Demand course, Labs (local) | Non-proctored exam, 5 days (+2 days), hands-on lab + report  | Entry-Level                | $499                                 | Annual Subscription                                                           | [Course Link](https://certifications.tcm-sec.com/pnpt/)                                                           |
+| TryHackMe Rooms                              | X                                                                | TryHackMe    | On-Demand course, Labs         | No                                                           | Various                    | Free; €126                           | Annual Subscription                                                           | [Labs Link](https://tryhackme.com/hacktivities)                                                                   |
+| The Jr Penetration Tester                    | The Jr Penetration Tester (PT1)                                  | TryHackMe    | On-Demand course, Labs         | Non-proctored exam, 2 days, hands-on lab + report            | Entry-Level                | $297                                 | Annual Subscription                                                           | [Course Link](https://tryhackme.com/certification/junior-penetration-tester)                                      |
 
 ## Footnote
 Offensive security is constantly evolving, and it promises even more opportunities to grow, learn, and sharpen your skills. Whether you’re just starting out or pushing toward advanced expertise, the key is to keep exploring and stay ahead of the curve. Stay tuned for the coming updates.
