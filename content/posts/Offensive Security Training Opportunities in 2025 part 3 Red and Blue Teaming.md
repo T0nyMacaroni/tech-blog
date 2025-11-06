@@ -2,7 +2,7 @@
 author:
   - Anthony Stulens
 title: Offensive Security Training Opportunities - Part 3
-date: 2025-10-22
+date: 2025-11-07
 description: Article giving an overview of offensive training opportunities in 2025. Focusing on Red & Blue Teaming.
 summary: An overview of offensive training opportunities in 2025. Focusing on Red & Blue Teaming.
 tags:
