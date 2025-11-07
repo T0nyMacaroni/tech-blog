@@ -486,7 +486,7 @@ The On-Demand bundle grants 4 months access and costs **$8.780** (excl. VAT).
 ## Footnote
 The trainings listed here are based on publicly available information as of October 2025, and prices or details may change over time.
 
-If you know of other red team and blue team trainings that deserve a mention, feel free to reach out. I’d love to include them in future updates or upcoming parts of the series.
+If you know of other red team and blue team trainings that deserve a mention, feel free to reach out. I’d love to include them in future updates or upcoming parts of the series.    
 
 ### Additional Resources
 - Security Certification Roadmap - Paul Jerimy: https://pauljerimy.com/security-certification-roadmap/
