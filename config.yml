@@ -82,8 +82,11 @@ params:
       url: "https://www.linkedin.com/in/anthonystulens/"
     - name: github
       url: "https://github.com/t0nymacaroni"
+    - name: hackthebox
+      url: "https://profile.hackthebox.com/profile/019d01b9-08ef-7368-af88-3fe08a3c1219"
     - name: bluesky
       url: "https://bsky.app/profile/tonymacaroni.eu"
+
 
 #  analytics:
 #    google:
